@@ -1,0 +1,18 @@
+C:\Users\Aidan\source\repos\Autobuses\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Aidan\source\repos\Autobuses\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Aidan\source\repos\Autobuses\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Aidan\source\repos\Autobuses\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Aidan\source\repos\Autobuses\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\Aidan\source\repos\Autobuses\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Aidan\source\repos\Proyecto de Autobuses\Autobuses\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Aidan\source\repos\Proyecto de Autobuses\Autobuses\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Aidan\source\repos\Proyecto de Autobuses\Autobuses\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Aidan\source\repos\Proyecto de Autobuses\Autobuses\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Aidan\source\repos\Proyecto de Autobuses\Autobuses\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Aidan\source\repos\Proyecto de Autobuses\Autobuses\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\Dibujo\Downloads\Autobuses-master\Autobuses-master\Autobuses\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Dibujo\Downloads\Autobuses-master\Autobuses-master\Autobuses\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Dibujo\Downloads\Autobuses-master\Autobuses-master\Autobuses\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Dibujo\Downloads\Autobuses-master\Autobuses-master\Autobuses\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Dibujo\Downloads\Autobuses-master\Autobuses-master\Autobuses\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Dibujo\Downloads\Autobuses-master\Autobuses-master\Autobuses\CapaEntidades\obj\Debug\CapaEntidades.pdb

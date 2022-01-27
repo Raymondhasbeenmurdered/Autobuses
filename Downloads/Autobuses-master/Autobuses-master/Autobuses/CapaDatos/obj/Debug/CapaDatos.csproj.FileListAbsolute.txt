@@ -1,0 +1,35 @@
+C:\Users\Aidan\source\repos\Autobuses\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Aidan\source\repos\Autobuses\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Aidan\source\repos\Autobuses\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Aidan\source\repos\Autobuses\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Aidan\source\repos\Autobuses\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Aidan\source\repos\Autobuses\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Aidan\source\repos\Autobuses\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Aidan\source\repos\Autobuses\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Aidan\source\repos\Autobuses\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Aidan\source\repos\Proyecto de Autobuses\Autobuses\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Aidan\source\repos\Proyecto de Autobuses\Autobuses\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Aidan\source\repos\Proyecto de Autobuses\Autobuses\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Aidan\source\repos\Proyecto de Autobuses\Autobuses\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Aidan\source\repos\Proyecto de Autobuses\Autobuses\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Aidan\source\repos\Proyecto de Autobuses\Autobuses\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Aidan\source\repos\Proyecto de Autobuses\Autobuses\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Aidan\source\repos\Proyecto de Autobuses\Autobuses\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\User\Desktop\Autobuses\Autobuses\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\User\Desktop\Autobuses\Autobuses\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\User\Desktop\Autobuses\Autobuses\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\User\Desktop\Autobuses\Autobuses\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\User\Desktop\Autobuses\Autobuses\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Autobuses\Autobuses\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Autobuses\Autobuses\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\User\Desktop\Autobuses\Autobuses\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\User\Desktop\Autobuses\Autobuses\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Dibujo\Downloads\Autobuses-master\Autobuses-master\Autobuses\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Dibujo\Downloads\Autobuses-master\Autobuses-master\Autobuses\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Dibujo\Downloads\Autobuses-master\Autobuses-master\Autobuses\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Dibujo\Downloads\Autobuses-master\Autobuses-master\Autobuses\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Dibujo\Downloads\Autobuses-master\Autobuses-master\Autobuses\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Dibujo\Downloads\Autobuses-master\Autobuses-master\Autobuses\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Dibujo\Downloads\Autobuses-master\Autobuses-master\Autobuses\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Dibujo\Downloads\Autobuses-master\Autobuses-master\Autobuses\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Dibujo\Downloads\Autobuses-master\Autobuses-master\Autobuses\CapaDatos\obj\Debug\CapaDatos.pdb
