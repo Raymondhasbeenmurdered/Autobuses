@@ -1,4 +1,6 @@
 -- Creación de la BDD --
+GO
+USE master;
 
 GO
 CREATE DATABASE Autobuses;
@@ -88,6 +90,7 @@ ID_Conductor INT,
 ID_Asistente INT,
 Marca NVARCHAR(25),
 Modelo NVARCHAR(25),
+-- Agregar status --
 
 CONSTRAINT FK_Conductor_AUTOBUSES FOREIGN KEY (ID_Conductor) REFERENCES Conductores(ID_Conductor),
 CONSTRAINT FK_Asistente_AUTOBUSES FOREIGN KEY (ID_Asistente) REFERENCES Asistentes(ID_Asistente)
@@ -115,6 +118,7 @@ ID_Ruta INT,
 Precio FLOAT,
 Fecha AS CONVERT(date, GETDATE()),
 Hora AS CONVERT(time, GETDATE()),
+-- Agregar status --
 
 CONSTRAINT FK_Ruta_Boletos FOREIGN KEY (ID_Ruta) REFERENCES Rutas(ID_Ruta)
 );
@@ -577,8 +581,8 @@ INSERT INTO Asistentes VALUES ('402-2939372-9', 'Bryan', 'Moreno', '829-842-0568
 INSERT INTO Conductores VALUES ('001-9856478-1', 'Aidan', 'Pereira', '849-656-5163', '14-06-2005', 'C/Charles de Gaulle Torre X', 'M', 50000);
 INSERT INTO Autobuses VALUES ('RD98452', 1, 1, 'Toyota', 'Camry');
 INSERT INTO Sucursales VALUES (1, 'Prados del Cachon, casi Charles');
-INSERT INTO Paradas_Intermedias VALUES ('Jacaranda', 'Av. Las Americas', 'Parador');
 INSERT INTO Paradas VALUES (1, 'Prados del Cachon', 'Cancino');
+INSERT INTO Paradas_Intermedias VALUES ('Jacaranda', 'Av. Las Americas', 'Parador');
 INSERT INTO Ciudades VALUES ('Santiago', 'Norte');
 INSERT INTO Rutas VALUES ('Ruta 8', 'Santiago', 'Cancino', 1, 1, 1);
 INSERT INTO Boletos VALUES (1, 650);
@@ -609,6 +613,6 @@ SELECT * FROM Boletos;
 
 -- Reiniciar IDENTITY --
 
-DBCC CHECKIDENT ('[dbo].[Sucursales]', RESEED, 0);
+DBCC CHECKIDENT ('[dbo].[Paradas]', RESEED, 0);
 
 DELETE FROM Sucursales WHERE ID_Sucursal = 2;*/
